@@ -1,0 +1,198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"doc",
+				"documentation"
+			],
+			[
+				"s",
+				"settings"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"ME",
+				"MEDIA_ROOT"
+			],
+			[
+				"MEDIA",
+				"MEDIA_URL"
+			],
+			[
+				"sa",
+				"save_it"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"re",
+				"RequestContext"
+			],
+			[
+				"ren",
+				"render_to_response"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"S",
+				"SigupAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/USER/Desktop/skillshare/src/mvplanding/settings.py",
+		"/C/Users/USER/Desktop/skillshare/static/templates/signup.html",
+		"/C/Users/USER/Desktop/skillshare/src/signups/views.py",
+		"/C/Users/USER/Desktop/skillshare/src/signups/forms.py",
+		"/C/Users/USER/Desktop/skillshare/src/signups/models.py",
+		"/C/Users/USER/Desktop/skillshare/src/mvplanding/urls.py",
+		"/C/Users/USER/Desktop/skillshare/src/signups/admin.py",
+		"/C/Users/USER/Desktop/skillshare/mvplanding.sublime-project",
+		"/C/Users/USER/Desktop/mvplanding"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"last_name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/USER/Desktop/skillshare/mvplanding.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true
+}
